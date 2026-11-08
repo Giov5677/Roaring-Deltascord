@@ -1,0 +1,6 @@
+node_modules/
+# gerados pelo workflow a cada build
+android/
+capacitor.config.json
+.DS_Store
+Thumbs.db
